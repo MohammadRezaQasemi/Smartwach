@@ -1,0 +1,126 @@
+Added Component: Designator=bat?(HDR1X2)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0805)
+Added Component: Designator=C?(0603)
+Added Component: Designator=J?(629105136821)
+Added Component: Designator=oled?(HDR1X7)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=U?(W16-H2_N)
+Added Component: Designator=U?(TQFP32)
+Added Component: Designator=U?(TO92)
+Added Component: Designator=U?(W16-H2_N)
+Added Component: Designator=vib?(HDR1X2)
+Added Component: Designator=Y?(HC_49S_SMD)
+Added Pin To Net: NetName=BACK_BTN Pin=R?-2
+Added Net: Name=BACK_BTN
+Added Pin To Net: NetName=BAT_VOL Pin=R?-1
+Added Pin To Net: NetName=BAT_VOL Pin=R?-2
+Added Pin To Net: NetName=BAT_VOL Pin=U?-2
+Added Net: Name=BAT_VOL
+Added Pin To Net: NetName=CS Pin=oled?-7
+Added Pin To Net: NetName=CS Pin=U?-14
+Added Net: Name=CS
+Added Pin To Net: NetName=DC Pin=oled?-6
+Added Pin To Net: NetName=DC Pin=U?-13
+Added Net: Name=DC
+Added Pin To Net: NetName=GND Pin=bat?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=oled?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=vib?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MOSI Pin=oled?-4
+Added Pin To Net: NetName=MOSI Pin=U?-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=MOVE_BTN Pin=R?-2
+Added Net: Name=MOVE_BTN
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=NetC?_1 Pin=Y?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=RES Pin=oled?-5
+Added Pin To Net: NetName=RES Pin=U?-12
+Added Net: Name=RES
+Added Pin To Net: NetName=RX Pin=U?-1
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=oled?-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=R?-1
+Added Pin To Net: NetName=SCL Pin=U?-16
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R?-1
+Added Pin To Net: NetName=SDA Pin=U?-15
+Added Net: Name=SDA
+Added Pin To Net: NetName=SELECT_BTN Pin=R?-2
+Added Net: Name=SELECT_BTN
+Added Pin To Net: NetName=TEMP Pin=R?-2
+Added Pin To Net: NetName=TEMP Pin=U?-2
+Added Pin To Net: NetName=TEMP Pin=U?-16
+Added Net: Name=TEMP
+Added Pin To Net: NetName=TX Pin=U?-2
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=bat?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=oled?-2
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=U?-2
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Pin To Net: NetName=VCC Pin=U?-4
+Added Pin To Net: NetName=VCC Pin=U?-6
+Added Pin To Net: NetName=VCC Pin=U?-12
+Added Pin To Net: NetName=VCC Pin=U?-14
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIB+ Pin=U?-1
+Added Pin To Net: NetName=VIB+ Pin=vib?-1
+Added Net: Name=VIB+
+Added Pin To Net: NetName=X_BTN Pin=R?-2
+Added Net: Name=X_BTN
+Added Class: Name=schematic
+Added Room: Name=schematic
